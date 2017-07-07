@@ -1,0 +1,14 @@
+
+*.marks
+*.txt
+*.xml
+*.zip
+*.iml
+*.cmake
+acm clion/异或密码 aaa/.DS_Store
+*.bin
+*.internal
+*.o
+*.cxx
+*.make
+*.log

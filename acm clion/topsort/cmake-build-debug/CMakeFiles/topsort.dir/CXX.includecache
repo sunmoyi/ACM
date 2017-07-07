@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/topsort/main.cpp
+
+/Users/sunqilong/Desktop/acm clion/topsort/myqueue.h
+stdio.h
+/Users/sunqilong/Desktop/acm clion/topsort/stdio.h
+stdlib.h
+/Users/sunqilong/Desktop/acm clion/topsort/stdlib.h
+
+/Users/sunqilong/Desktop/acm clion/topsort/topsort.cpp
+myqueue.h
+/Users/sunqilong/Desktop/acm clion/topsort/myqueue.h
+cstdio
+-
+cstring
+-
+algorithm
+-
+vector
+-
+
