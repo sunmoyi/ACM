@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Antonidas/Antonidas.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+vector
+-
+queue
+-
+
+/Users/sunqilong/Desktop/acm clion/Antonidas/main.cpp
+

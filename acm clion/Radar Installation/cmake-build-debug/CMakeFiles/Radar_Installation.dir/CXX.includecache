@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Radar Installation/Radar Installation.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+vector
+-
+iostream
+-
+cmath
+-
+set
+-
+
+/Users/sunqilong/Desktop/acm clion/Radar Installation/main.cpp
+

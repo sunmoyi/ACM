@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Mahmoud and a xor trip/Mahmoud and a xor trip.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+vector
+-
+
+/Users/sunqilong/Desktop/acm clion/Mahmoud and a xor trip/main.cpp
+

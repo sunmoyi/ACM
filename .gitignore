@@ -12,3 +12,4 @@ acm clion/异或密码 aaa/.DS_Store
 *.cxx
 *.make
 *.log
+.DS_Store

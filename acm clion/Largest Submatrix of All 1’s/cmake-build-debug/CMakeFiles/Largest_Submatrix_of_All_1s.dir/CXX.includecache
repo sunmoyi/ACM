@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Largest Submatrix of All 1’s/Largest Submatrix of All 1’s.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+stack
+-
+iostream
+-
+
+/Users/sunqilong/Desktop/acm clion/Largest Submatrix of All 1’s/main.cpp
+

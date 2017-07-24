@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Colored Cubes/Colored Cubes.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+vector
+-
+iostream
+-
+string
+-
+
+/Users/sunqilong/Desktop/acm clion/Colored Cubes/main.cpp
+

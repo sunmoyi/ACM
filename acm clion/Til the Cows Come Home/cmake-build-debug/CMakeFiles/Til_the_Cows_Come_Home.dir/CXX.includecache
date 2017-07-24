@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Til the Cows Come Home/Til the Cows Come Home.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+vector
+-
+queue
+-
+
+/Users/sunqilong/Desktop/acm clion/Til the Cows Come Home/main.cpp
+

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Taymyr is calling you/Taymyr is calling you.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+iostream
+-
+
+/Users/sunqilong/Desktop/acm clion/Taymyr is calling you/main.cpp
+

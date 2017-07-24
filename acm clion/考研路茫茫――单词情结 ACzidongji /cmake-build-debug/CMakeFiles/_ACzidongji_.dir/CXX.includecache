@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/考研路茫茫――单词情结 ACzidongji /main.cpp
+
+/Users/sunqilong/Desktop/acm clion/考研路茫茫――单词情结 ACzidongji /考研路茫茫――单词情结 ACzidingji.cpp
+iostream
+-
+stdio.h
+-
+string.h
+-
+algorithm
+-
+queue
+-
+

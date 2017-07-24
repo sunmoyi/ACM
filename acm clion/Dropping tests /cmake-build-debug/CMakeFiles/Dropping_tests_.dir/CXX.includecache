@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Dropping tests /Dropping tests .cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+cmath
+-
+iostream
+-
+iomanip
+-
+
+/Users/sunqilong/Desktop/acm clion/Dropping tests /main.cpp
+

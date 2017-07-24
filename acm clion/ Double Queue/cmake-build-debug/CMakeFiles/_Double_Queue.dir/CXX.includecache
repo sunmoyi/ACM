@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/ Double Queue/Double Queue.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+map
+-
+
+/Users/sunqilong/Desktop/acm clion/ Double Queue/main.cpp
+

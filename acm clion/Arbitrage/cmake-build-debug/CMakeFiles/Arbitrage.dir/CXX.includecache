@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Arbitrage/Arbitrage.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+map
+-
+string
+-
+
+/Users/sunqilong/Desktop/acm clion/Arbitrage/main.cpp
+

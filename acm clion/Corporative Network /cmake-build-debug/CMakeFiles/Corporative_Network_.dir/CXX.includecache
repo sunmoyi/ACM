@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Corporative Network /Corporative Network.cpp
+iostream
+-
+cstdio
+-
+cstring
+-
+algorithm
+-
+string
+-
+
+/Users/sunqilong/Desktop/acm clion/Corporative Network /main.cpp
+

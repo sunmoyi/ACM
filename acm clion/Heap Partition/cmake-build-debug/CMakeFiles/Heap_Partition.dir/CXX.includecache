@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Heap Partition/Heap Partition.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+set
+-
+functional
+-
+vector
+-
+queue
+-
+
+/Users/sunqilong/Desktop/acm clion/Heap Partition/main.cpp
+

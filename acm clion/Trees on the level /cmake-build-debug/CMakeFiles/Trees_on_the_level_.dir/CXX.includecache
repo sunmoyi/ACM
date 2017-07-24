@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Trees on the level /Trees on the level .cpp
+cstdio
+-
+cstdlib
+-
+cstring
+-
+vector
+-
+queue
+-
+
+/Users/sunqilong/Desktop/acm clion/Trees on the level /main.cpp
+

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/uGame2/Game.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+vector
+-
+functional
+-
+
+/Users/sunqilong/Desktop/acm clion/uGame2/main.cpp
+

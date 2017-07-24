@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Equilibrium Mobile /Equilibrium Mobile .cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+map
+-
+
+/Users/sunqilong/Desktop/acm clion/Equilibrium Mobile /main.cpp
+

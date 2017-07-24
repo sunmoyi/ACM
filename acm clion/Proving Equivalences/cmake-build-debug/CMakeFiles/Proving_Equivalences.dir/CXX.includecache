@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Proving Equivalences/Proving Equivalences.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+stack
+-
+vector
+-
+
+/Users/sunqilong/Desktop/acm clion/Proving Equivalences/main.cpp
+

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/panther/main.cpp
+
+/Users/sunqilong/Desktop/acm clion/panther/panther.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+

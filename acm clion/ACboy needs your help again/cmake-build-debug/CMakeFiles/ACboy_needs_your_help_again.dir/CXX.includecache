@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/ACboy needs your help again/ACboy needs your help again! .cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+stack
+-
+queue
+-
+
+/Users/sunqilong/Desktop/acm clion/ACboy needs your help again/main.cpp
+

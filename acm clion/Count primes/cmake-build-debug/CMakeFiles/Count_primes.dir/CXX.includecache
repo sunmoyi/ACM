@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Count primes/Count primes.cpp
+
+/Users/sunqilong/Desktop/acm clion/Count primes/main.cpp
+
+/Users/sunqilong/Desktop/acm clion/Count primes/test.cpp
+cstdio
+-
+

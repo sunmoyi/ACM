@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/B. Bash's Big Day/B. Bash's Big Day.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+vector
+-
+
+/Users/sunqilong/Desktop/acm clion/B. Bash's Big Day/main.cpp
+

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/odd-even number/main.cpp
+
+/Users/sunqilong/Desktop/acm clion/odd-even number/odd-even number.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+cmath
+-
+

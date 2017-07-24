@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Ideal Path /Ideal Path .cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+queue
+-
+vector
+-
+
+/Users/sunqilong/Desktop/acm clion/Ideal Path /main.cpp
+

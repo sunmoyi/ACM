@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Scarily interesting/Scarily interesting.cpp
+iostream
+-
+stdio.h
+-
+algorithm
+-
+
+/Users/sunqilong/Desktop/acm clion/Scarily interesting/main.cpp
+

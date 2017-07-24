@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Highway/Highway.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+cmath
+-
+
+/Users/sunqilong/Desktop/acm clion/Highway/main.cpp
+

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/The Morning after Halloween/The Morning after Halloween.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+cctype
+-
+queue
+-
+
+/Users/sunqilong/Desktop/acm clion/The Morning after Halloween/main.cpp
+

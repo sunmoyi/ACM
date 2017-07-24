@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/The Next/The Next.cpp
+iostream
+-
+queue
+-
+algorithm
+-
+cstdio
+-
+string
+-
+
+/Users/sunqilong/Desktop/acm clion/The Next/main.cpp
+

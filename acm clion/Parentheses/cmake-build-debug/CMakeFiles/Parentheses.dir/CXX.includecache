@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Parentheses/Parentheses.cpp
+cstdio
+-
+cstring
+-
+string
+-
+algorithm
+-
+iostream
+-
+
+/Users/sunqilong/Desktop/acm clion/Parentheses/main.cpp
+

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Rails /cmake-build-debug/Rails.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+stack
+-
+
+/Users/sunqilong/Desktop/acm clion/Rails /main.cpp
+

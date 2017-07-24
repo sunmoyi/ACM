@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Telephone Lines/Telephone Lines.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+iostream
+-
+vector
+-
+queue
+-
+
+/Users/sunqilong/Desktop/acm clion/Telephone Lines/main.cpp
+

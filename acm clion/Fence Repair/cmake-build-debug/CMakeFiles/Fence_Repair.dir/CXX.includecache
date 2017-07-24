@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Fence Repair/Fence Repair.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+vector
+-
+queue
+-
+functional
+-
+
+/Users/sunqilong/Desktop/acm clion/Fence Repair/main.cpp
+

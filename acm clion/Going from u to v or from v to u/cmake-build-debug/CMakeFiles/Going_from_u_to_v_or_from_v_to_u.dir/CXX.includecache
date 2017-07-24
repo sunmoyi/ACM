@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Going from u to v or from v to u/Going from u to v or from v to u.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+vector
+-
+stack
+-
+queue
+-
+
+/Users/sunqilong/Desktop/acm clion/Going from u to v or from v to u/main.cpp
+

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/DNA sequence/DNA Sequence.cpp
+queue
+-
+stdio.h
+-
+string.h
+-
+algorithm
+-
+
+/Users/sunqilong/Desktop/acm clion/DNA sequence/main.cpp
+

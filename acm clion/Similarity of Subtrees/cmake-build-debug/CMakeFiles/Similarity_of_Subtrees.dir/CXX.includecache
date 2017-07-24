@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Similarity of Subtrees/Similarity of Subtrees.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+map
+-
+vector
+-
+
+/Users/sunqilong/Desktop/acm clion/Similarity of Subtrees/main.cpp
+

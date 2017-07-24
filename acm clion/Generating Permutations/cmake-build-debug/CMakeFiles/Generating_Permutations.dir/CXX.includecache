@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Generating Permutations/Generating Permutations.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+deque
+-
+vector
+-
+iostream
+-
+
+/Users/sunqilong/Desktop/acm clion/Generating Permutations/main.cpp
+

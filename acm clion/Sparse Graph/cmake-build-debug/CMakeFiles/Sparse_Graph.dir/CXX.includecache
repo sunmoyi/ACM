@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Sparse Graph/Sparse Graph.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+set
+-
+vector
+-
+queue
+-
+
+/Users/sunqilong/Desktop/acm clion/Sparse Graph/main.cpp
+

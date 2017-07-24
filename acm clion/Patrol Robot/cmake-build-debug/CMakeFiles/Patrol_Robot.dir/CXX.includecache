@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Patrol Robot/Patrol Robot.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+queue
+-
+string
+-
+
+/Users/sunqilong/Desktop/acm clion/Patrol Robot/main.cpp
+

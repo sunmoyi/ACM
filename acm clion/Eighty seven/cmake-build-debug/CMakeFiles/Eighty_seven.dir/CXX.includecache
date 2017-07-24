@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Eighty seven/Eighty seven.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+bitset
+-
+
+/Users/sunqilong/Desktop/acm clion/Eighty seven/main.cpp
+

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/I Can Guess the Data Structure!/I Can Guess the Data Structure!.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+stack
+-
+queue
+-
+
+/Users/sunqilong/Desktop/acm clion/I Can Guess the Data Structure!/main.cpp
+

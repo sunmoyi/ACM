@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Guess/Guess.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+cmath
+-
+
+/Users/sunqilong/Desktop/acm clion/Guess/main.cpp
+

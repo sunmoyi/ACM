@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Railway/Railway2.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+vector
+-
+stack
+-
+
+/Users/sunqilong/Desktop/acm clion/Railway/main.cpp
+

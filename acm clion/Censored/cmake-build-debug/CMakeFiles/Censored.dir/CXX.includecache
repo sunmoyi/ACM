@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Censored/Censored.cpp
+iostream
+-
+string.h
+-
+algorithm
+-
+stdio.h
+-
+queue
+-
+map
+-
+
+/Users/sunqilong/Desktop/acm clion/Censored/main.cpp
+

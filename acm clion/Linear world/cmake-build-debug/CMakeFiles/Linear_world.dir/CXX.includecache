@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Linear world/Linear world.cpp
+iostream
+-
+string
+-
+algorithm
+-
+iomanip
+-
+cmath
+-
+
+/Users/sunqilong/Desktop/acm clion/Linear world/main.cpp
+

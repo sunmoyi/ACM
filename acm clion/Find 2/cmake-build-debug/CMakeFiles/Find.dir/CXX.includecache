@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Find/AvlTreeFind.h
+
+/Users/sunqilong/Desktop/acm clion/Find/BSFind.h
+
+/Users/sunqilong/Desktop/acm clion/Find/BlockFind.h
+
+/Users/sunqilong/Desktop/acm clion/Find/BsTreeFind.h
+
+/Users/sunqilong/Desktop/acm clion/Find/HashFind.h
+
+/Users/sunqilong/Desktop/acm clion/Find/SqFind.h
+
+/Users/sunqilong/Desktop/acm clion/Find/Struct.h
+
+/Users/sunqilong/Desktop/acm clion/Find/main.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+cmath
+-
+cstdlib
+-
+Struct.h
+/Users/sunqilong/Desktop/acm clion/Find/Struct.h
+AvlTreeFind.h
+/Users/sunqilong/Desktop/acm clion/Find/AvlTreeFind.h
+BlockFind.h
+/Users/sunqilong/Desktop/acm clion/Find/BlockFind.h
+BSFind.h
+/Users/sunqilong/Desktop/acm clion/Find/BSFind.h
+HashFind.h
+/Users/sunqilong/Desktop/acm clion/Find/HashFind.h
+BsTreeFind.h
+/Users/sunqilong/Desktop/acm clion/Find/BsTreeFind.h
+SqFind.h
+/Users/sunqilong/Desktop/acm clion/Find/SqFind.h
+

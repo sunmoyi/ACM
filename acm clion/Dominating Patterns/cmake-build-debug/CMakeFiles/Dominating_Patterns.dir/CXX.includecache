@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Dominating Patterns/Dominating Patterns.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+queue
+-
+map
+-
+string
+-
+
+/Users/sunqilong/Desktop/acm clion/Dominating Patterns/main.cpp
+

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/A. Gotta Catch Em' All!/A. Gotta Catch Em' All!.cpp
+cstdio
+-
+cstring
+-
+iostream
+-
+
+/Users/sunqilong/Desktop/acm clion/A. Gotta Catch Em' All!/main.cpp
+

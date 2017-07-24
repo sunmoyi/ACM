@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Cow Contest/Cow Contest.cpp
+iostream
+-
+stdio.h
+-
+math.h
+-
+string.h
+-
+algorithm
+-
+
+/Users/sunqilong/Desktop/acm clion/Cow Contest/main.cpp
+

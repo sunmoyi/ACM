@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Six Degrees of Cowvin Bacon/Six Degrees of Cowvin Bacon.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+iostream
+-
+
+/Users/sunqilong/Desktop/acm clion/Six Degrees of Cowvin Bacon/main.cpp
+

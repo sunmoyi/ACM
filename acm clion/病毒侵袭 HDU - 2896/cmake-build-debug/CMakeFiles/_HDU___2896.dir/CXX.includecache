@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/病毒侵袭 HDU - 2896/main.cpp
+
+/Users/sunqilong/Desktop/acm clion/病毒侵袭 HDU - 2896/病毒侵袭 HDU - 2896.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+queue
+-
+

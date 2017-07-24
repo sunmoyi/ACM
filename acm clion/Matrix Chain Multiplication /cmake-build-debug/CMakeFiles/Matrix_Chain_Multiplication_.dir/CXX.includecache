@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Matrix Chain Multiplication /Matrix Chain Multiplication .cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+stack
+-
+string
+-
+iostream
+-
+
+/Users/sunqilong/Desktop/acm clion/Matrix Chain Multiplication /main.cpp
+

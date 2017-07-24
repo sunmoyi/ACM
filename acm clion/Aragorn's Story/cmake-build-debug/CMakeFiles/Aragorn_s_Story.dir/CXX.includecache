@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Aragorn's Story/Aragorn's Story.cpp
+iostream
+-
+string.h
+-
+algorithm
+-
+stdio.h
+-
+vector
+-
+
+/Users/sunqilong/Desktop/acm clion/Aragorn's Story/main.cpp
+

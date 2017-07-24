@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/The Cow Prom/The Cow Prom.cpp
+cstdio
+-
+iostream
+-
+cstring
+-
+stack
+-
+vector
+-
+
+/Users/sunqilong/Desktop/acm clion/The Cow Prom/main.cpp
+

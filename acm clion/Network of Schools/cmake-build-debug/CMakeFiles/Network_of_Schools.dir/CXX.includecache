@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Network of Schools/Network of Schools.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+vector
+-
+stack
+-
+
+/Users/sunqilong/Desktop/acm clion/Network of Schools/main.cpp
+

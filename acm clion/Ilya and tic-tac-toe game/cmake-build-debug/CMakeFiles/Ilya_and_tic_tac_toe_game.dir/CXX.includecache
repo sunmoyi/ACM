@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Ilya and tic-tac-toe game/Ilya and tic-tac-toe game.cpp
+cstdio
+-
+
+/Users/sunqilong/Desktop/acm clion/Ilya and tic-tac-toe game/main.cpp
+

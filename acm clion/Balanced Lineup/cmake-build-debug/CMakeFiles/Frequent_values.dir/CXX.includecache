@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Frequent values/Frequent values RMQ.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+cmath
+-
+iostream
+-
+
+/Users/sunqilong/Desktop/acm clion/Frequent values/main.cpp
+

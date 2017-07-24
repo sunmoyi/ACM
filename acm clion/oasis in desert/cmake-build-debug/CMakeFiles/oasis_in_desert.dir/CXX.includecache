@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/oasis in desert/main.cpp
+
+/Users/sunqilong/Desktop/acm clion/oasis in desert/oasis in desert.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+vector
+-
+

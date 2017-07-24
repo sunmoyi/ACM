@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/EXTENDED LIGHTS OUT/EXTENDED LIGHTS OUT.cpp
+stdio.h
+-
+
+/Users/sunqilong/Desktop/acm clion/EXTENDED LIGHTS OUT/main.cpp
+

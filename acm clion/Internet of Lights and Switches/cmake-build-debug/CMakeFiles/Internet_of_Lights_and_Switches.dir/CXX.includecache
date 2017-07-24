@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Internet of Lights and Switches/Internet of Lights and Switches.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+map
+-
+vector
+-
+
+/Users/sunqilong/Desktop/acm clion/Internet of Lights and Switches/main.cpp
+

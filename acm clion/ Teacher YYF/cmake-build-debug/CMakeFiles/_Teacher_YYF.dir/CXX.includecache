@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/ Teacher YYF/Teacher YYF.cpp
+iostream
+-
+cstring
+-
+cstdio
+-
+cstdlib
+-
+cctype
+-
+cmath
+-
+string
+-
+vector
+-
+list
+-
+map
+-
+queue
+-
+stack
+-
+set
+-
+algorithm
+-
+sstream
+-
+
+/Users/sunqilong/Desktop/acm clion/ Teacher YYF/main.cpp
+

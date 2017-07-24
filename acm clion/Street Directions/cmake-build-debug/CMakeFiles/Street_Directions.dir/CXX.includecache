@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Street Directions/Street Directions.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+stack
+-
+
+/Users/sunqilong/Desktop/acm clion/Street Directions/main.cpp
+

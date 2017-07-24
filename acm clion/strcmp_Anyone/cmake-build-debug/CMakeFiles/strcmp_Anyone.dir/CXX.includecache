@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/strcmp_Anyone/main.cpp
+
+/Users/sunqilong/Desktop/acm clion/strcmp_Anyone/strcmp_Anyone.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+vector
+-
+

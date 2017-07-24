@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Word Reversal /Word Reversal.cpp
+iostream
+-
+string
+-
+cstdio
+-
+algorithm
+-
+
+/Users/sunqilong/Desktop/acm clion/Word Reversal /main.cpp
+

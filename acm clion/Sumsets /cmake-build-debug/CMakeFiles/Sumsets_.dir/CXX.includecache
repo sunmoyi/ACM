@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Sumsets /Sumsets.cpp
+cstdio
+-
+iostream
+-
+
+/Users/sunqilong/Desktop/acm clion/Sumsets /main.cpp
+

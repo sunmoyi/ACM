@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Santa Claus and Robot /Santa Claus and Robot .cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+iostream
+-
+string
+-
+
+/Users/sunqilong/Desktop/acm clion/Santa Claus and Robot /main.cpp
+

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Ring/Ring.cpp
+iostream
+-
+string.h
+-
+stdio.h
+-
+algorithm
+-
+queue
+-
+
+/Users/sunqilong/Desktop/acm clion/Ring/main.cpp
+

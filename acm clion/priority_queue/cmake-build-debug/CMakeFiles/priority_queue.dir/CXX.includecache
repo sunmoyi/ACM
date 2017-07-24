@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/priority_queue/main.cpp
+
+/Users/sunqilong/Desktop/acm clion/priority_queue/priority_queue.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+queue
+-
+

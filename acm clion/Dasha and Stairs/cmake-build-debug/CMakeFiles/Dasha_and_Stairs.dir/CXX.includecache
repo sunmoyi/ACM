@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Dasha and Stairs/Dasha and Stairs.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+cstdlib
+-
+
+/Users/sunqilong/Desktop/acm clion/Dasha and Stairs/main.cpp
+

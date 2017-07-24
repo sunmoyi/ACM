@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Abbott's Revenge /Abbott's Revenge .cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+queue
+-
+vector
+-
+
+/Users/sunqilong/Desktop/acm clion/Abbott's Revenge /main.cpp
+

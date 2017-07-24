@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/A Magic Lamp/A Magic Lamp.cpp
+cstdio
+-
+cstring
+-
+cmath
+-
+
+/Users/sunqilong/Desktop/acm clion/A Magic Lamp/main.cpp
+

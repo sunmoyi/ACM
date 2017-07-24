@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Party Games/Party Games.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+string
+-
+vector
+-
+iostream
+-
+
+/Users/sunqilong/Desktop/acm clion/Party Games/main.cpp
+

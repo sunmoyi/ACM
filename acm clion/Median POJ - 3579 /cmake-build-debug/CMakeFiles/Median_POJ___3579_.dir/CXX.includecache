@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Median POJ - 3579 /Median .cpp
+iostream
+-
+algorithm
+-
+
+/Users/sunqilong/Desktop/acm clion/Median POJ - 3579 /main.cpp
+

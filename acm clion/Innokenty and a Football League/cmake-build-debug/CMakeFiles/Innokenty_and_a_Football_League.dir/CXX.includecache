@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Innokenty and a Football League/Innokenty and a Football League.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+string
+-
+map
+-
+iostream
+-
+
+/Users/sunqilong/Desktop/acm clion/Innokenty and a Football League/main.cpp
+

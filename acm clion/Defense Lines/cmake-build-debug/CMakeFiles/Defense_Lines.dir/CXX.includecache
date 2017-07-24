@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Defense Lines/Defense Lines.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+set
+-
+
+/Users/sunqilong/Desktop/acm clion/Defense Lines/main.cpp
+

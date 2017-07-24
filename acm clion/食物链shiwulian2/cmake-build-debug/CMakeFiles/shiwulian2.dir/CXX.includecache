@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/食物链shiwulian2/main.cpp
+
+/Users/sunqilong/Desktop/acm clion/食物链shiwulian2/食物链sjiwulian.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+

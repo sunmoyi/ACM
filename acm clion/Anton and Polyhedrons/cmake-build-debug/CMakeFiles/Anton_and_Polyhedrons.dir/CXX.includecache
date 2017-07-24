@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Anton and Polyhedrons/Anton and Polyhedrons.cpp
+iostream
+-
+cstdio
+-
+cstring
+-
+map
+-
+
+/Users/sunqilong/Desktop/acm clion/Anton and Polyhedrons/main.cpp
+

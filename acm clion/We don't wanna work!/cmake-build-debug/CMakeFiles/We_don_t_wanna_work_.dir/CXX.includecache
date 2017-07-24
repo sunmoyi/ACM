@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/We don't wanna work!/We don't wanna work! .cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+string
+-
+map
+-
+set
+-
+iostream
+-
+
+/Users/sunqilong/Desktop/acm clion/We don't wanna work!/main.cpp
+

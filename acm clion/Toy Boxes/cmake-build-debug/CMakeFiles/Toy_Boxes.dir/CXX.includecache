@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Toy Boxes/Toy Boxes.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+queue
+-
+functional
+-
+
+/Users/sunqilong/Desktop/acm clion/Toy Boxes/main.cpp
+

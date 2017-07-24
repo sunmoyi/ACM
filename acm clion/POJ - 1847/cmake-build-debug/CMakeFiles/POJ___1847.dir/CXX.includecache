@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/POJ - 1847/POJ - 1847.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+stack
+-
+
+/Users/sunqilong/Desktop/acm clion/POJ - 1847/main.cpp
+

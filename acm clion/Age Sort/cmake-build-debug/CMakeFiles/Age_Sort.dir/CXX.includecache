@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Age Sort/Age Sort.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+cctype
+-
+
+/Users/sunqilong/Desktop/acm clion/Age Sort/main.cpp
+

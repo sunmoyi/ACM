@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Housewife Wind(LCA)/Housewife Wind(LCA).cpp
+iostream
+-
+cstdio
+-
+cstring
+-
+cmath
+-
+
+/Users/sunqilong/Desktop/acm clion/Housewife Wind(LCA)/main.cpp
+

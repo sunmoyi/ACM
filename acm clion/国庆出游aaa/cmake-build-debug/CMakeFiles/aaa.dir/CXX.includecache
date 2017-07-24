@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/国庆出游aaa/main.cpp
+
+/Users/sunqilong/Desktop/acm clion/国庆出游aaa/国庆出游aaa.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+vector
+-
+

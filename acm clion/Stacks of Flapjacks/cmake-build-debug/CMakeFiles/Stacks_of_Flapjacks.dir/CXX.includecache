@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Stacks of Flapjacks/Stacks of Flapjacks.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+iostream
+-
+sstream
+-
+string
+-
+
+/Users/sunqilong/Desktop/acm clion/Stacks of Flapjacks/main.cpp
+
