@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Why Did the Cow Cross the Road/Why Did the Cow Cross the Road.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+vector
+-
+queue
+-
+
+/Users/sunqilong/Desktop/acm clion/Why Did the Cow Cross the Road/main.cpp
+

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Bovine Genomics/Bovine Genomics.cpp
+string
+-
+cstdio
+-
+cstring
+-
+algorithm
+-
+iostream
+-
+
+/Users/sunqilong/Desktop/acm clion/Bovine Genomics/main.cpp
+

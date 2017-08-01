@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/RGB2HSL/RGB2HSL.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+cmath
+-
+
+/Users/sunqilong/Desktop/acm clion/RGB2HSL/main.cpp
+

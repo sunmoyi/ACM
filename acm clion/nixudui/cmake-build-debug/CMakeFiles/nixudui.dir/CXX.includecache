@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/nixudui/main.cpp
+
+/Users/sunqilong/Desktop/acm clion/nixudui/nixudui .cpp
+stdio.h
+-
+string.h
+-
+

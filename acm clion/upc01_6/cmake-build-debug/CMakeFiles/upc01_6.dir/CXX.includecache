@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/upc01_6/main.cpp
+
+/Users/sunqilong/Desktop/acm clion/upc01_6/upc01_6.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+vector
+-
+string
+-
+iostream
+-
+

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/UPC02_07/UPC02_07.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+map
+-
+
+/Users/sunqilong/Desktop/acm clion/UPC02_07/main.cpp
+
