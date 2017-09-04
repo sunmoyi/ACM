@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/BstarA05/BstarA02.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+
+/Users/sunqilong/Desktop/acm clion/BstarA05/main.cpp
+

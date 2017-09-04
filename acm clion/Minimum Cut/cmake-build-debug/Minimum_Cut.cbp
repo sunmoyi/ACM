@@ -80,9 +80,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/sunqilong/Desktop/acm clion/Minimum Cut/Minimum Cut.cpp">
-			<Option target="Minimum_Cut"/>
-		</Unit>
 		<Unit filename="/Users/sunqilong/Desktop/acm clion/Minimum Cut/main.cpp">
 			<Option target="Minimum_Cut"/>
 		</Unit>

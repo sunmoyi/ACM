@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/ACPC Headquarters /ACPC Headquarters.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+vector
+-
+map
+-
+iostream
+-
+set
+-
+
+/Users/sunqilong/Desktop/acm clion/ACPC Headquarters /main.cpp
+

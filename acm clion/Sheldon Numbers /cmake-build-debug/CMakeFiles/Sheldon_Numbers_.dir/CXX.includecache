@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Sheldon Numbers /Sheldon Numbers .cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+vector
+-
+iostream
+-
+
+/Users/sunqilong/Desktop/acm clion/Sheldon Numbers /main.cpp
+

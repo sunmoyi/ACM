@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Owllen/Owllen.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+
+/Users/sunqilong/Desktop/acm clion/Owllen/main.cpp
+

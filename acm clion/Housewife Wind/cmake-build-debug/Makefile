@@ -123,6 +123,33 @@ Housewife_Wind/fast:
 	$(MAKE) -f CMakeFiles/Housewife_Wind.dir/build.make CMakeFiles/Housewife_Wind.dir/build
 .PHONY : Housewife_Wind/fast
 
+Housewife_Wind(LCA).o: Housewife_Wind(LCA).cpp.o
+
+.PHONY : Housewife_Wind(LCA).o
+
+# target to build an object file
+Housewife_Wind(LCA).cpp.o:
+	$(MAKE) -f CMakeFiles/Housewife_Wind.dir/build.make "CMakeFiles/Housewife_Wind.dir/Housewife_Wind(LCA).cpp.o"
+.PHONY : Housewife_Wind(LCA).cpp.o
+
+Housewife_Wind(LCA).i: Housewife_Wind(LCA).cpp.i
+
+.PHONY : Housewife_Wind(LCA).i
+
+# target to preprocess a source file
+Housewife_Wind(LCA).cpp.i:
+	$(MAKE) -f CMakeFiles/Housewife_Wind.dir/build.make "CMakeFiles/Housewife_Wind.dir/Housewife_Wind(LCA).cpp.i"
+.PHONY : Housewife_Wind(LCA).cpp.i
+
+Housewife_Wind(LCA).s: Housewife_Wind(LCA).cpp.s
+
+.PHONY : Housewife_Wind(LCA).s
+
+# target to generate assembly for a file
+Housewife_Wind(LCA).cpp.s:
+	$(MAKE) -f CMakeFiles/Housewife_Wind.dir/build.make "CMakeFiles/Housewife_Wind.dir/Housewife_Wind(LCA).cpp.s"
+.PHONY : Housewife_Wind(LCA).cpp.s
+
 Housewife_Wind(tree_division).o: Housewife_Wind(tree_division).cpp.o
 
 .PHONY : Housewife_Wind(tree_division).o
@@ -186,6 +213,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Housewife_Wind"
+	@echo "... Housewife_Wind(LCA).o"
+	@echo "... Housewife_Wind(LCA).i"
+	@echo "... Housewife_Wind(LCA).s"
 	@echo "... Housewife_Wind(tree_division).o"
 	@echo "... Housewife_Wind(tree_division).i"
 	@echo "... Housewife_Wind(tree_division).s"

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Nearest Common Ancestors/Nearest Common Ancestors.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+vector
+-
+
+/Users/sunqilong/Desktop/acm clion/Nearest Common Ancestors/main.cpp
+iostream
+-
+

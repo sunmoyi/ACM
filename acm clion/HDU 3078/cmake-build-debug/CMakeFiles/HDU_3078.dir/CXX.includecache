@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/HDU 3078/HDU 3078.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+vector
+-
+functional
+-
+cmath
+-
+
+/Users/sunqilong/Desktop/acm clion/HDU 3078/main.cpp
+

@@ -123,33 +123,6 @@ Minimum_Cut/fast:
 	$(MAKE) -f CMakeFiles/Minimum_Cut.dir/build.make CMakeFiles/Minimum_Cut.dir/build
 .PHONY : Minimum_Cut/fast
 
-Minimum_Cut.o: Minimum_Cut.cpp.o
-
-.PHONY : Minimum_Cut.o
-
-# target to build an object file
-Minimum_Cut.cpp.o:
-	$(MAKE) -f CMakeFiles/Minimum_Cut.dir/build.make CMakeFiles/Minimum_Cut.dir/Minimum_Cut.cpp.o
-.PHONY : Minimum_Cut.cpp.o
-
-Minimum_Cut.i: Minimum_Cut.cpp.i
-
-.PHONY : Minimum_Cut.i
-
-# target to preprocess a source file
-Minimum_Cut.cpp.i:
-	$(MAKE) -f CMakeFiles/Minimum_Cut.dir/build.make CMakeFiles/Minimum_Cut.dir/Minimum_Cut.cpp.i
-.PHONY : Minimum_Cut.cpp.i
-
-Minimum_Cut.s: Minimum_Cut.cpp.s
-
-.PHONY : Minimum_Cut.s
-
-# target to generate assembly for a file
-Minimum_Cut.cpp.s:
-	$(MAKE) -f CMakeFiles/Minimum_Cut.dir/build.make CMakeFiles/Minimum_Cut.dir/Minimum_Cut.cpp.s
-.PHONY : Minimum_Cut.cpp.s
-
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -186,9 +159,6 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Minimum_Cut"
-	@echo "... Minimum_Cut.o"
-	@echo "... Minimum_Cut.i"
-	@echo "... Minimum_Cut.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

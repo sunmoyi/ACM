@@ -123,33 +123,6 @@ Network_of_Schools/fast:
 	$(MAKE) -f CMakeFiles/Network_of_Schools.dir/build.make CMakeFiles/Network_of_Schools.dir/build
 .PHONY : Network_of_Schools/fast
 
-Network_of_Schools.o: Network_of_Schools.cpp.o
-
-.PHONY : Network_of_Schools.o
-
-# target to build an object file
-Network_of_Schools.cpp.o:
-	$(MAKE) -f CMakeFiles/Network_of_Schools.dir/build.make CMakeFiles/Network_of_Schools.dir/Network_of_Schools.cpp.o
-.PHONY : Network_of_Schools.cpp.o
-
-Network_of_Schools.i: Network_of_Schools.cpp.i
-
-.PHONY : Network_of_Schools.i
-
-# target to preprocess a source file
-Network_of_Schools.cpp.i:
-	$(MAKE) -f CMakeFiles/Network_of_Schools.dir/build.make CMakeFiles/Network_of_Schools.dir/Network_of_Schools.cpp.i
-.PHONY : Network_of_Schools.cpp.i
-
-Network_of_Schools.s: Network_of_Schools.cpp.s
-
-.PHONY : Network_of_Schools.s
-
-# target to generate assembly for a file
-Network_of_Schools.cpp.s:
-	$(MAKE) -f CMakeFiles/Network_of_Schools.dir/build.make CMakeFiles/Network_of_Schools.dir/Network_of_Schools.cpp.s
-.PHONY : Network_of_Schools.cpp.s
-
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -186,9 +159,6 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Network_of_Schools"
-	@echo "... Network_of_Schools.o"
-	@echo "... Network_of_Schools.i"
-	@echo "... Network_of_Schools.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

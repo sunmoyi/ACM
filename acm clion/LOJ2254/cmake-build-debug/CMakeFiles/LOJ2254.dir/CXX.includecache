@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/LOJ2254/LOJ2254.cpp
+cmath
+-
+queue
+-
+cstdio
+-
+iomanip
+-
+cstdlib
+-
+cstring
+-
+iostream
+-
+algorithm
+-
+
+/Users/sunqilong/Desktop/acm clion/LOJ2254/main.cpp
+

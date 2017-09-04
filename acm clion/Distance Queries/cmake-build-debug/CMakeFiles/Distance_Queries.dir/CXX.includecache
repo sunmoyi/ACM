@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Distance Queries/Distance Queries LCA.cpp
+iostream
+-
+algorithm
+-
+cstdio
+-
+cstring
+-
+
+/Users/sunqilong/Desktop/acm clion/Distance Queries/main.cpp
+

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/RXD and math /RXD and math .cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+
+/Users/sunqilong/Desktop/acm clion/RXD and math /main.cpp
+
