@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Palindromic Cut /Palindromic Cut .cpp
+iostream
+-
+cstring
+-
+string
+-
+cstdio
+-
+vector
+-
+
+/Users/sunqilong/Desktop/acm clion/Palindromic Cut /main.cpp
+

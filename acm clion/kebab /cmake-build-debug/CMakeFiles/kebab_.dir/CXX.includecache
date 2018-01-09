@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/kebab /kebab .cpp
+cstdio
+-
+cstring
+-
+queue
+-
+algorithm
+-
+vector
+-
+
+/Users/sunqilong/Desktop/acm clion/kebab /main.cpp
+

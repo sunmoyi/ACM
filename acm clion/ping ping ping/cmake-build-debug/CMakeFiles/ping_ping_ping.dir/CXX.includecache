@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/ping ping ping/main.cpp
+
+/Users/sunqilong/Desktop/acm clion/ping ping ping/ping ping ping.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+vector
+-
+iostream
+-
+

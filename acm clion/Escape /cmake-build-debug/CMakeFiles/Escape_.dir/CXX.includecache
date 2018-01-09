@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Escape /Escape .cpp
+queue
+-
+vector
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+iostream
+-
+algorithm
+-
+
+/Users/sunqilong/Desktop/acm clion/Escape /main.cpp
+

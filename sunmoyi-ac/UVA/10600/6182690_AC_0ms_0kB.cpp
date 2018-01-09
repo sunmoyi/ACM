@@ -16,6 +16,7 @@ struct node {
 		return a.len < b.len;
 	}
 }edge[maxn * maxn];
+
 int n, m;
 int father[maxn];
 int rankk[maxn];

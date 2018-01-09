@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/beijing/beijing.cpp
+cstdio
+-
+iostream
+-
+algorithm
+-
+
+/Users/sunqilong/Desktop/acm clion/beijing/main.cpp
+

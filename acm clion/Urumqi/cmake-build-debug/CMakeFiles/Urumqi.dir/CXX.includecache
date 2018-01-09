@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Urumqi/A.cpp
+
+/Users/sunqilong/Desktop/acm clion/Urumqi/C.cpp
+
+/Users/sunqilong/Desktop/acm clion/Urumqi/E.cpp
+
+/Users/sunqilong/Desktop/acm clion/Urumqi/F.cpp
+
+/Users/sunqilong/Desktop/acm clion/Urumqi/H.cpp
+
+/Users/sunqilong/Desktop/acm clion/Urumqi/J.cpp
+stdio.h
+-
+string.h
+-
+
+/Users/sunqilong/Desktop/acm clion/Urumqi/main.cpp
+

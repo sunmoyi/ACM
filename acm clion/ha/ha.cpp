@@ -51,26 +51,6 @@ void LCA(int u)
 
 int main (void)
 {
-    int t, n, x, y;
-    scanf("%d", &t);
-    while(t--)
-    {
-        init();
-        scanf("%d", &n);
-        for(int i = 1; i < n; i++)
-        {
-            scanf("%d %d", &x, &y);
-            G[x].push_back(y);
-        }
-        scanf("%d %d", &qx, &qy);
-        for(int i = 1; i <= n; i++)
-        {
-            if(!vis[i])
-            {
-                LCA(i);
-            }
-        }
-        printf("%d\n", ans);
-    }
+    printf("%d\n", 1 << 32);
     return 0;
 }

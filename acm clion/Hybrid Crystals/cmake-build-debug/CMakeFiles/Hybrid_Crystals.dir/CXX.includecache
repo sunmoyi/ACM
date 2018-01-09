@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Hybrid Crystals/Hybrid Crystals .cpp
+iostream
+-
+cstdio
+-
+algorithm
+-
+
+/Users/sunqilong/Desktop/acm clion/Hybrid Crystals/main.cpp
+

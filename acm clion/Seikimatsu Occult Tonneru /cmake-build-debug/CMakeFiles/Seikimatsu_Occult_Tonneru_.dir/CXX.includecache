@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Seikimatsu Occult Tonneru /Seikimatsu Occult Tonneru .cpp
+cstdio
+-
+iostream
+-
+cstring
+-
+queue
+-
+
+/Users/sunqilong/Desktop/acm clion/Seikimatsu Occult Tonneru /main.cpp
+

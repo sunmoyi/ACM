@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Lost in Transliteration /Lost in Transliteration .cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+string
+-
+iostream
+-
+
+/Users/sunqilong/Desktop/acm clion/Lost in Transliteration /main.cpp
+

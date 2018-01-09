@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sunqilong/Desktop/acm clion/Rikka with Candies/Rikka with Candies.cpp
+cstdio
+-
+cstring
+-
+algorithm
+-
+bitset
+-
+
+/Users/sunqilong/Desktop/acm clion/Rikka with Candies/main.cpp
+
